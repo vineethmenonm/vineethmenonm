@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vineethmenonm
+- 👀 I’m interested in Data, Data Engineering, Machine Learning, AI
+- 🌱 I’m currently learning Data Science and Machine Learning Masters
+- 💞️ I’m looking to collaborate on Anything where I can learn more on Data Analytics and ML
+- 📫 How to reach me vineethmenon@live.in
